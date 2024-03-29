@@ -26,7 +26,7 @@ class _NextScreenState extends State<NextScreen> {
 
   final List<String> images = [
     'images/1.jpg',
-    'images/2.jpg',
+    'images/f1.png',
     'images/3.jpg',
   ];
 
