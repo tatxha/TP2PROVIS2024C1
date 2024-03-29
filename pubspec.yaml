@@ -1,0 +1,64 @@
+name: prak3
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  smooth_page_indicator: ^1.1.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  carousel_slider: ^4.2.1
+  get: ^4.6.1 # Use the latest version
+  flutter_native_splash: ^1.2.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+  # - images/*
+  - images/f1.png
+  - images/f2.png
+  - images/f3.png
+  - images/f4.png
+  - images/f5.png
+  - images/f6.png
+  - images/1.jpg
+  - images/2.jpg
+  - images/3.jpg
+  - images/top.png
+  - images/splash.png
+  - images/1.jpg
+  - images/2.jpg
+  - images/3.jpg
+  - images/f1.png
+  - images/f2.png
+  - images/a1.jpg
+  - images/a2.jpg
+  - images/a3.jpg
+
+# assets:
+# - images/splash.png
+
+# flutter_native_splash:
+#   image: images/splash.png
+
+  fonts:
+    - family: Poppins
+      fonts: 
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+          # - fonts/Poppins-SemiBold
+          # - fonts/Poppins-ExtraBold
+
