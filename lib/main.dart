@@ -39,8 +39,8 @@ class _NextScreenState extends State<NextScreen> {
   final List<String> fitur2 = [
     'images/f5.png',
     'images/f6.png',
-    'images/1.jpg',
-    'images/2.jpg'
+    'images/f1.png',
+    'images/f2.png',
   ];
 
   final List<String> ft1 = [
@@ -385,4 +385,3 @@ class _NextScreenState extends State<NextScreen> {
     );
   }
 }
-
