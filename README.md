@@ -1,17 +1,9 @@
 # homepage
 
-A new Flutter project.
+Nama      : Tattha Maharany
+NIM       : 2201805
+Kelompok  : 3
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# TP2PROVIS2024C1" 
+<img width="534" alt="Screenshot 2024-03-29 232034" src="https://github.com/tatxha/TP2PROVIS2024C1/assets/134766457/31a96c88-e511-431a-866f-5d91f0815b10">
+<img width="546" alt="Screenshot 2024-03-29 232043" src="https://github.com/tatxha/TP2PROVIS2024C1/assets/134766457/9d3521b0-0092-4616-9299-bb6d88415781">
